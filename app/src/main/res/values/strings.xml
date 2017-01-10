@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjerciciosXML</string>
+    <string name="actividad1">Actividad 1</string>
+    <string name="actividad2">Actividad 2</string>
+    <string name="tempmax">Temp. Máxima:</string>
+</resources>
